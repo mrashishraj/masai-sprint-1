@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	padding:0;
+	margin: 0;
+	background-color:antiquewhite;
+}
+
+.body-box{
+	width: 100%;	
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.box1{
+	background-color: green;
+	height: 40px;
+	width: 100%;	
+}
+
+
+.box1-1{
+	height: 40px;
+	width: 8%;
+	float: left;
+	padding: 0;
+	margin: 0;
+	margin-right: 1%;
+}
+
+.box1-2{
+	float:right;
+	
+}
+
+.logo-img{
+	margin-left: 2px;	
+	height: 38px;
+	width: 38px;
+	background-image:url("source/logo.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+}
+
+#logo-text{
+	height: 40px;	
+	width: 11%;
+	float: left;
+	margin:auto;
+	}
+
+.logo-text{
+	color:white;
+	margin-top: 5%;
+	font-family: 'Dancing Script', cursive;
+	margin-left: 2%;
+}
+
+.head-menu{
+	color: white;
+	text-align: center;
+	margin-left: 25%;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: 'Dancing Script', cursive;
+}
+
+.head-menu:hover{
+	font-size: 25px;
+	color: blue;	
+}
+
+.box2{
+	height: 700px;
+	width: 100%;	
+	float: left;
+	margin-left: 0%;	
+}
+
+.box2-1{
+	height: 70px;
+	width: 100%;
+	margin: 0;	
+}
+
+.head1{
+	text-align: center;
+	color: #673AB7;
+	font-family: 'Merienda', cursive;
+}
+
+.box3{
+	width: 70%;
+	margin-left: 14%;
+	height: 250px;
+}
+
+.box3-1,.box3-2{
+	height: 100%;	
+	float: left;
+	width: 49%;
+}
+
+.box3-1{	
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-image: url("source/trialer.jpg");	
+}
+
+.watchnow{
+	margin-left: 0%;
+	text-align: center;	
+	margin-top: 12%;
+	color: blue;	
+}
+
+.watchnow+a{
+	font-size: 25px;
+	text-align: center;
+	margin-left: 38%;
+	color:blue;
+}
+
+.box4{
+	height: 500px;
+	width: 70%;
+	background-image:url("source/accolades.jpg");
+	float: left;
+	margin-left: 14%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.about_us{
+	height: 600px;
+	width: 70%;
+	margin-left: 14%;
+	float: left;
+}
+
+.head2{
+	font-size: 25px;
+	font-family: 'Dancing Script', cursive;
+}
+
+.gallery-box{
+	height: 1000px;
+	width: 70%;
+	margin-left: 14%;
+	float: left;
+}
+
+.img1{	
+	height: 220px;
+	margin-top: 2%;
+	width: 40%;
+	margin-left: 6%;
+	float: left;	
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.img1-1{
+	background-image: url("source/img1.jpg");
+}
+
+.img1-2{
+	background-image: url("source/img2.jpg");
+}
+
+.img1-3{
+	background-image: url("source/img3.jpg");
+}
+
+.img1-4{
+	background-image: url("source/img4.jpg");
+}
+
+.img1-5{
+	background-image: url("source/img5.jpg");
+}
+
+.img1-6{
+	background-image: url("source/img6.jpg");
+}
+
+.img1-7{
+	background-image: url("source/img7.jpg");
+}
+
+.img1-8{
+	background-image: url("source/img8.jpg");
+}
+
+.img1-9{
+	background-image: url("source/img9.jpg");
+}
+
+.img1-10{
+	background-image: url("source/img10.jpg");
+}
+
+.thanks-box{	
+	height: 290px;
+	margin-top: 2%;
+	width: 70%;
+	margin-left: 14%;
+	float: left;
+	text-align: center;
+	align:center;
+}
+
+
+table,td {
+	margin-left: 8%;
+	text-align: center;
+}
+
+thead,tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
